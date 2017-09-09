@@ -1,0 +1,1 @@
+To find maximum temperature per year from sensor temperature data sheet, using hadoop mapreduce framework.
