@@ -1,5 +1,5 @@
 
-#HDFS Architecture and Mapreduce Processing Flow
+# HDFS Architecture and Mapreduce Processing Flow
 ![hdfs architecture](https://user-images.githubusercontent.com/11821587/30244146-e89d4a44-95d5-11e7-9544-8ba34acceda6.jpg)
 ![mapreduce processing flow](https://user-images.githubusercontent.com/11821587/30244147-f04f6b00-95d5-11e7-92e6-8fe1468271c2.png)
 
